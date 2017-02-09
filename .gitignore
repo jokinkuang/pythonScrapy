@@ -1,0 +1,4 @@
+.idea
+*.pyc
+!crashMonitor/spiders/mailer.pyc
+/config.ini
